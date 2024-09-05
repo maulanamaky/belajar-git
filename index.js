@@ -1,2 +1,3 @@
 
-console.log("Hello World")
+
+console.info("Perkenalkan nama saya ")
